@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_location">Location Map</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="button_1">Start Location</string>
+    <string name="button_2">Go Map</string>
+
+</resources>
